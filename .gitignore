@@ -8,6 +8,9 @@ docs/.vitepress/dist/
 docs/.vitepress/cache/
 .vitepress/
 
+# Archive (old file backups)
+_archive/
+
 # Logs
 *.log
 npm-debug.log*
