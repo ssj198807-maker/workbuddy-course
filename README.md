@@ -13,7 +13,7 @@
 - **总课时**：22 小时
 - **覆盖章节**：蓝皮书 27 章 + 2 附录全覆盖
 - **教学样板**：1 份完整（21KB）+ 5 份简版
-- **关联笔记**：基于一线 AI 落地陪跑经验沉淀
+- **关联笔记**：6 份三哥 wiki 实战笔记
 
 ---
 
@@ -112,7 +112,7 @@ git push
 - `package.json` - 仓库 URL
 - `docs/.vitepress/config.mts` - `socialLinks` 和 `editLink.pattern`
 - `README.md` - 部署说明
-- `.github/workflows/deploy.yml` - 如果有自定义 URL
+- 站内引用 `三哥-LLMWiki/` 相关路径
 
 ### 改主色
 
@@ -147,9 +147,17 @@ export default {
 
 ---
 
-## 🔗 外部资源
+## 🔗 关联资源
 
-- [WorkBuddy 官网](https://workbuddy.homes)
+### 三哥 wiki 笔记（补充阅读）
+- `WorkBuddy 43 场景任务说明全指南`
+- `AI 视频处理与自动化技能开发演示`
+- `基于 AI 的四步爆款内容创作工作流`
+- `多 Agent 系统深度剖析：从伪协同到真执行`
+- `AI 写作技能系统改造全记录`
+- `AI 驱动的个人知识库革命`
+
+### 外部资源
 - [WorkBuddy 蓝皮书原文](https://workbuddy.homes/bluebook/)
 - [VitePress 官方文档](https://vitepress.dev/)
 - [GitHub Pages 文档](https://docs.github.com/pages)
@@ -167,7 +175,7 @@ export default {
 - ✅ **保持总览稳定**——课时/路径不轻易改
 - ✅ **保持核心样板稳定**——第 19 章不轻易改
 - ⚠️ **细节可调**——案例/演示/任务说明可随技术演进
-- ❌ **不要轻易删章节**——核心样板保持稳定
+- ❌ **不要轻易删章节**——三哥 wiki 笔记引用需保留
 
 ---
 
